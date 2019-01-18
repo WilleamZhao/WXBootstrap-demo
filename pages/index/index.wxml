@@ -1,0 +1,13 @@
+<!--index.wxml-->
+<view class="container">
+  <view class="row">
+    <view class='col'>
+      cesi
+    </view>
+    <view class='col'>
+    </view>
+  </view>
+  <view class="row">
+    
+  </view>
+</view>
