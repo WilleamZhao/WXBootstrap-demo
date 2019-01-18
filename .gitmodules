@@ -1,0 +1,3 @@
+[submodule "plugins/WXBootstrap"]
+	path = plugins/WXBootstrap
+	url = git@github.com:WilleamZhao/WXBootstrap.git
