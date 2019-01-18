@@ -1,11 +1,40 @@
 {
   "pages":[
-    "pages/index/index"
+    "pages/index/index",
+    "pages/button/button",
+    "pages/buttongroup/buttongroup",
+    "pages/table/table",
+    "pages/icon/icon",
+    "pages/layout/layout",
+    "pages/popup/popup",
+    "pages/card/card",
+    "pages/carousel/carousel",
+    "pages/collapse/collapse",
+    "pages/dropdowns/dropdowns",
+    "pages/forms/forms",
+    "pages/inputgroup/inputgroup",
+    "pages/jumbotron/jumbotron",
+    "pages/listgroup/listgroup",
+    "pages/modal/modal",
+    "pages/navs/navs",
+    "pages/navbar/navbar",
+    "pages/pagination/pagination",
+    "pages/popovers/popovers",
+    "pages/progress/progress",
+    "pages/scrollspy/scrollspy",
+    "pages/font/font"
   ],
   "window":{
     "backgroundTextStyle":"light",
     "navigationBarBackgroundColor": "#fff",
-    "navigationBarTitleText": "WeChat",
-    "navigationBarTextStyle":"black"
-  }
+    "navigationBarTitleText": "WXBootstrapDemo",
+    "navigationBarTextStyle":"black",
+    "backgroundColor": "#fff"
+  },
+  "networkTimeout": {
+    "request": 60000,
+    "downloadFile": 60000
+  },
+  "debug": false,
+  "widgets": ""
 }

@@ -1,0 +1,8 @@
+<!--pages/forms/forms.wxml-->
+<view class="container">
+  <view class="row text-center flex-center-center" style='height: 500rpx;'>
+    <view class="col">
+      待完善
+    </view>    
+  </view>
+</view>

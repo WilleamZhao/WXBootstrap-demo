@@ -1,0 +1,42 @@
+<!--pages/card/card.wxml-->
+<view class="container-5 mt-5">
+  <view class='row'>
+    <view class='col f-3x pl-3'>
+      <text>Image</text>
+    </view>
+  </view>
+
+  <view class='card mt-3' style='width: 6rem;'>
+    
+    <image class='card-img-top' src='../../images/def.png'></image>
+    <view class='card-body f-3x font-weight-bold'>
+      基础组件
+    </view>
+  </view>
+
+  <!-- List groups -->
+  <view class='row'>
+    <view class='col f-3x pl-3'>
+      <text>List groups</text>
+    </view>
+  </view>
+
+  <view class='card mt-3' style='width: 6rem;'>
+    <view class="card-header">
+      Featured
+    </view>
+    <view class="list-group list-group-flush">
+      <view class='list-group-item'>
+        Cras justo odio
+      </view>
+      <view class='list-group-item'>
+        Dapibus ac facilisis in
+      </view>
+      <view class='list-group-item'>
+        Vestibulum at eros
+      </view>
+    </view>
+  </view>
+
+
+</view>

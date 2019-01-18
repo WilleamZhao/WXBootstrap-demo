@@ -1,0 +1,46 @@
+<!--pages/font/font.wxml-->
+<view class="container">
+  <view class="row flex-center-center" style='height: 500rpx;'>
+    <view class="col-12">
+      默认字体
+    </view>
+    <view class="col-12 f-1x">
+      1x 字体
+    </view>
+    <view class="col-12 f-2x">
+      2x 字体
+    </view>
+    <view class="col-12 f-3x">
+      3x 字体
+    </view>
+    <view class="col-12 f-4x">
+      4x 字体
+    </view>
+    <view class="col-12 f-5x">
+      5x 字体
+    </view>
+    <view class="col-12 f-6x">
+      6x 字体
+    </view>
+    <view class="col-12 f-7x">
+      7x 字体
+    </view>
+    <view class="col-12 f-8x">
+      8x 字体
+    </view>
+    <view class="col-12 f-9x">
+      9x 字体
+    </view>
+    <view class="col-12 f-10x">
+      10x 字体
+    </view>
+    <view class="col-12 f-11x">
+      11x 字体
+    </view>
+    <view class="col-12 f-12x">
+      12x 字体
+    </view>
+    
+    
+  </view>
+</view>

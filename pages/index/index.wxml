@@ -1,13 +1,100 @@
 <!--index.wxml-->
 <view class="container">
-  <view class="row">
-    <view class='col'>
-      cesi
-    </view>
-    <view class='col'>
+  <view class="row pt-6">
+    <view class="col flex-center-center">
+      <image src="../../images/logo.png" class="img-11-11"></image>
+      <text class='font-weight-bold f-4x pl-4'>WXBootstrap</text>
     </view>
   </view>
-  <view class="row">
-    
+  <view class="row pt-2">
+    <view class="col text-center f-3x font-weight-bold">
+      微信小程序 Bootstrap框架
+    </view>
   </view>
+  <view class="row pt-2">
+    <view class="col text-center f-3x font-weight-bold">
+      采用原生开发方式
+    </view>
+  </view>  
 </view>
+
+<view class="container-4 p-6">
+
+  <view class="list-group">
+    <view class='list-group-item'>
+      基础组件
+    </view>
+    <view class='list-group-item'>
+      <navigator hover-class="none" url="../button/button">Button按钮 <text class="arrow"></text></navigator>
+    </view>
+    <view class='list-group-item'>
+      <navigator hover-class="none" url="../table/table">Table单元格 <text class="arrow"></text></navigator>
+    </view>
+    <view class='list-group-item'>
+      <navigator hover-class="none" url="../icon/icon">Icon图标 <text class="arrow"></text></navigator>
+    </view>
+    <view class='list-group-item'>
+      <navigator hover-class="none" url="../layout/layout">Layout布局 <text class="arrow"></text></navigator>
+    </view>
+  </view>
+
+  <view class="list-group mt-4">
+    <view class='list-group-item'>
+      表单组件
+    </view>
+    <view class='list-group-item'>
+      <navigator hover-class="none" url="../button/button">Checkbox复选框 <text class="arrow"></text></navigator>
+    </view>
+    <view class='list-group-item'>
+      <navigator hover-class="none" url="../cell/cell">输入框组 <text class="arrow"></text></navigator>
+    </view>
+    <view class='list-group-item'>
+      <navigator hover-class="none" url="../icon/icon">导航 <text class="arrow"></text></navigator>
+    </view>
+    <view class='list-group-item'>
+      <navigator hover-class="none" url="../layout/layout">导航条 <text class="arrow"></text></navigator>
+    </view>
+    <view class='list-group-item'>
+      <navigator hover-class="none" url="../layout/layout">路径导航 <text class="arrow"></text></navigator>
+    </view>
+    <view class='list-group-item'>
+      <navigator hover-class="none" url="../layout/layout">分页 <text class="arrow"></text></navigator>
+    </view>
+    <view class='list-group-item'>
+      <navigator hover-class="none" url="../layout/layout">标签 <text class="arrow"></text></navigator>
+    </view>
+    <view class='list-group-item'>
+      <navigator hover-class="none" url="../layout/layout">徽章 <text class="arrow"></text></navigator>
+    </view>
+    <view class='list-group-item'>
+      <navigator hover-class="none" url="../layout/layout">警告框 <text class="arrow"></text></navigator>
+    </view>
+    <view class='list-group-item'>
+      <navigator hover-class="none" url="../layout/layout">媒体对象 <text class="arrow"></text></navigator>
+    </view>
+    <view class='list-group-item'>
+      <navigator hover-class="none" url="../layout/layout">列表组 <text class="arrow"></text></navigator>
+    </view>
+    <view class='list-group-item'>
+      <navigator hover-class="none" url="../card/card">card(旧panel) <text class="arrow"></text></navigator>
+    </view>
+    <view class='list-group-item'>
+      <navigator hover-class="none" url="../layout/layout">导航条 <text class="arrow"></text></navigator>
+    </view>
+  </view>
+
+  <view class="list-group mt-4">
+    <view class='list-group-item'>
+      基础
+    </view>
+    <view class='list-group-item'>
+      <navigator hover-class="none" url="../font/font">字体<text class="arrow"></text></navigator>
+    </view>
+  </view>
+
+  
+
+
+</view>
+
+  
